@@ -1,0 +1,1 @@
+Search for "post.php" in the index.html file and replace the post.php link with yours.
